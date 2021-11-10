@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+  color: lightslategray;
+  border: black solid 5px;
+}
+body{
+  background-color:aquamarine;
+  text-align: center;
+}
+
+p {
+  font-family: Garamond, 	Arial, 	Courier New;
+  font-size: 30px;
+}
+
+img.monkey{
+  margin-left: 0%;
+}
+
+img:hover {
+background-color: #53ada3;
+}
+
+img.hello {
+  border: darkgray solid 5px;
+}
+
+img:hover {
+  filter: grayscale(100%);
+}
+
+
+
